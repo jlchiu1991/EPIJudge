@@ -2,6 +2,7 @@ from test_framework import generic_test
 
 
 def parity(x: int) -> int:
+    # TODO
     p = 0
     while x:
         p = ~p
