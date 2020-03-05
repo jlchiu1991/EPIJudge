@@ -9,7 +9,7 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10001
             },
-            "Python: count_bits.py": {
+            "Python: count_bits.py": { 
                 "passed": 0,
                 "total": 10001
             }
